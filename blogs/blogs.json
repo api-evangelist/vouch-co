@@ -2,13 +2,19 @@
   "repo": "vouch-co",
   "feeds": [
     {
-      "source": "https://www.vouch.us/newsroom",
-      "feed_url": "https://www.vouch.us/newsroom",
-      "title": "",
+      "source": "https://www.vouch.us/blog",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
+    },
+    {
+      "source": "https://www.vouch.us/newsroom",
+      "feed_url": "",
+      "saved": 0,
+      "method": "agent-scrape"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:20:41Z",
+  "agent_pulled": "2026-06-27"
 }

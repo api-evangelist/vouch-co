@@ -89,11 +89,11 @@ common:
     url: https://support.vouch.us
   - type: CorporateAPIDocs
     url: https://vouch.gitbook.io/corporate
-  - type: Licenses
+  - type: License
     url: https://www.vouch.us/legal/licenses
-  - type: PrivacyNotice
+  - type: PrivacyPolicy
     url: https://www.vouch.us/legal/privacy-notice
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.vouch.us/legal/terms-of-use
   - type: Disclosures
     url: https://www.vouch.us/legal/disclosures
