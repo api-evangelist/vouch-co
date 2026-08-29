@@ -15,6 +15,17 @@ description: Vouch is a San Francisco, California business insurance broker and 
   (hosted on GitBook) are gated to onboarded venture, technology, and service-provider partners contracted
   through hello@vouch.us.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
