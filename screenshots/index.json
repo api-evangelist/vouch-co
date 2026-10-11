@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "vouch-co",
+    "captured_at": "2026-10-11T194323",
+    "source_url": "https://www.vouch.us",
+    "source_type": "Website",
+    "file": "vouch-co-2026-10-11T194323.png",
+    "bytes": 396286,
+    "capture": "playwright-local"
+  }
+]
