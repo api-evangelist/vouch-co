@@ -5,7 +5,7 @@
       "source": "https://www.vouch.us/blog/rss.xml",
       "feed_url": "https://www.vouch.us/blog/rss.xml",
       "title": "",
-      "saved": 3,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -23,8 +23,8 @@
       "method": "none"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-10-10T13:15:00Z",
+  "post_count": 51,
+  "fetched": "2026-10-17T14:53:57Z",
   "agent_pulled": "2026-06-27",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
